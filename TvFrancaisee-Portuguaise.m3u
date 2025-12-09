@@ -1,5 +1,6 @@
 #EXTM3U
 url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-sic-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-tvi-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.xz"
+# M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 #EXTINF:-1,TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1,France 2
@@ -59,6 +60,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
 
 
 
