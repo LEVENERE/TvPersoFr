@@ -79,9 +79,16 @@ https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 #EXTINF:-1,Science & Vie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
-
-
-
+#EXTINF:-1 tvg-id="",Banijay Mr Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Les Secrets de Nos Régions
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="",Nature Time France (1080p)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt@SD",RTP Internacional (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa] rtsp://213.13.26.11:1935/live/portocanal
+#EXTINF:-1 tvg-ID="" tvg-name="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="",CMTV [SD] http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/635.m3u8 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa] rtsp://213.13.26.13:1935/live/portocanal
 
 
 
