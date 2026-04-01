@@ -3,8 +3,10 @@ url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,h
 # M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 #EXTINF:-1,TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" group-title="TNT",TF1
+https://tvradiozap.eu/890
 #EXTINF:-1,France 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/330px-France_2_2018.svg.png" group-title="TNT",France 2
 #EXTINF:-1,France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france3-highest.m3u8
 #EXTINF:-1,France 4
