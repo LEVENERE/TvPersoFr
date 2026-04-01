@@ -13,8 +13,8 @@ https://tvradiozap.eu/tools/ft-m3u8.php/france4.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france5-highest.m3u8
 #EXTINF:-1,M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTINF:-1,Arte Invitation au Voyage
-https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="TNT",ARTE
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 #EXTINF:-1,6TER
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1,LCP
