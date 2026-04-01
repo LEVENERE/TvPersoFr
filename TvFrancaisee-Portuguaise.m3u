@@ -43,10 +43,6 @@ https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
 #EXTINF:-1,Novo19
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="TNT",TF1 SERIES FILMS
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-#EXTINF:-1,L'Équipe
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="TNT",6TER
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="TNT",RMC STORY
@@ -111,8 +107,13 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CMTV" tvg-logo="https://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="",CMTV [SD] http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/635.m3u8 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL HD [Alternativa] rtsp://213.13.26.13:1935/live/portocanal
 #EXTINF:-1 tvg-id="PortoCanal.pt@SD",Porto Canal (720p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-chno="225" tvg-id="FranceTVDocs.fr" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="CartoonNetwork.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cartoon-network-fr.png" group-title="Jeunesse",CARTOON NETWORK
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="FR3000139Z" group-title="Cinéma",SONY ONE HITS ACTION
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="FR300009JQ" group-title="Cinéma",SONY ONE HITS COMEDIE
 
 
 
