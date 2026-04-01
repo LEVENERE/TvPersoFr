@@ -2,7 +2,6 @@
 url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-sic-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-tvi-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.xz"
 # M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
 #EXTINF:-1,TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" group-title="TNT",TF1
 https://tvradiozap.eu/890
 #EXTINF:-1,France 2
