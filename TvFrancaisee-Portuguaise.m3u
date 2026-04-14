@@ -17,8 +17,6 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 #EXTINF:-1,6TER
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-#EXTINF:-1,LCP
-https://tvradiozap.eu/tools/dm-m3u8.php/xgepjr
 #EXTINF:-1,W9
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1,TMC
