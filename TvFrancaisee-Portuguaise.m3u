@@ -1,16 +1,6 @@
 #EXTM3U
 url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-nos-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-sic-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-tvi-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.xz"
 # M3UPT.com - IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only.
-https://tvradiozap.eu/737
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/330px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="TNT",TF1 Séries Films
-https://tvradiozap.eu/649
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/La_cha%C3%AEne_l%27Equipe_-_logo_2016.png/330px-La_cha%C3%AEne_l%27Equipe_-_logo_2016.png" group-title="TNT",L'Équipe
-https://tvradiozap.eu/648
-#EXTINF:-1 tvg-id="6TER.fr" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_6ter_2016.svg/330px-Logo_6ter_2016.svg.png" group-title="TNT",6TER
-https://tvradiozap.eu/638
-#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC Story" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcstorycouleurs.png" group-title="TNT",RMC Story
-https://tvradiozap.eu/644
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Découverte" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcdecouvertecouleurs.png" group-title="TNT",RMC Découverte
 https://tvradiozap.eu/898
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="RMC Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/RMC_Life_logo_2025.svg/330px-RMC_Life_logo_2025.svg.png" group-title="TNT",RMC Life
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" group-title="TNT",TF1
