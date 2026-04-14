@@ -12,7 +12,7 @@ https://tvradiozap.eu/tools/ft-m3u8.php/france4.m3u8
 #EXTINF:-1,France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france5-highest.m3u8
 #EXTINF:-1,M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+https%3a//poland.assistancefrancaise.com/hls/transcoder03/19/tracks-v1a1/mono.ts.m3u8:M6
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="TNT",ARTE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u8
 #EXTINF:-1,6TER
