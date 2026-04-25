@@ -55,6 +55,8 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="FR3000139Z" group-title="Cinéma",SONY ONE HITS ACTION
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="FR300009JQ" group-title="Cinéma",SONY ONE HITS COMEDIE
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1,RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1,RMC Découverte
