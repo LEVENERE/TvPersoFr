@@ -36,7 +36,7 @@ https://geo.dailymotion.com/player.html?video=x5gv5v0
 #EXTINF:-1,T18
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
 #EXTINF:-1,Novo19
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+https://poland.assistancefrancaise.com/hls/transcoder03/8/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_5.png" group-title="Cinéma",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="TNT",RMC STORY
