@@ -43,8 +43,6 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1,France Info
 https://tvradiozap.eu/tools/ft-m3u8.php/franceinfo.m3u8
-#EXTINF:-1,CStar
-https://geo.dailymotion.com/player.html?video=x5gv5v0
 #EXTINF:-1,T18
 https://live.eu-north-1b.cf.dmcdn.net/sec2(w7UEok6qaH_9XKRk2DsI48HhSprS5gcKcOZWS96EUuqA7_jxowVAQEhF6cUvzoQa5Z5uP-1rpGfDHf9gXxt4dDA38nobM8nTnG533HfjCJvle2EetG0qJeSRQsOtosm8)/dm/3/x9jhhyc/d/live-1080@60.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1,Novo19
