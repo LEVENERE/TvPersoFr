@@ -22,7 +22,7 @@ https://tvradiozap.eu/897
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="TNT",TMC
 https://poland.assistancefrancaise.com/hls/transcoder03/9/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/960px-TFX_logo_2018.svg.png" group-title="TNT",TFX
-https://tvradiozap.eu/896
+https://poland.assistancefrancaise.com/hls/transcoder03/10/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Gulli
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 #EXTINF:-1,BFM TV
