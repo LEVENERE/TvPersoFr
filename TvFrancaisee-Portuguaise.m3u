@@ -29,8 +29,8 @@ https://poland.assistancefrancaise.com/hls/transcoder03/23/tracks-v1a1/mono.ts.m
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1,CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1,LCI
-https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjYiLCJjbWNkIjoiIiwiZXhwIjoxNzc3MTk1MDI5LCJnaWQiOiI0NTcwYjI1Yy05ZjJkLTQ2YzQtYTlmNC01ZDE3OWRjNTQwODciLCJpYXQiOjE3NzcxODA2MjksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvOTE3YWFkNGZhNzJmNDJmN2JhN2Y0ODYyMjZmNTRiYzQvbGNpLWNtYWYiLCJzdWIiOiI0NTcwYjI1Yy05ZjJkLTQ2YzQtYTlmNC01ZDE3OWRjNTQwODcifQ.BB_zYHzXMYrI7EBgNpDRIFsIrkrRl_4BFkv8vmcYiN4/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/LCI_logo_%282016%29.png/330px-LCI_logo_%282016%29.png" group-title="TNT",LCI
+https://tvradiozap.eu/899
 #EXTINF:-1,France Info
 https://tvradiozap.eu/tools/ft-m3u8.php/franceinfo.m3u8
 #EXTINF:-1,CStar
