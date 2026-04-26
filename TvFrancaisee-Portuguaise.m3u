@@ -22,7 +22,7 @@ https://tvradiozap.eu/897
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="TNT",TMC
 https://poland.assistancefrancaise.com/hls/transcoder03/9/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TFX
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+https://poland.assistancefrancaise.com/hls/transcoder03/10/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1,Gulli
