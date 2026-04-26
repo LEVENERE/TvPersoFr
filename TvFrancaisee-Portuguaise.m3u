@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/arte.m3u
 https://poland.assistancefrancaise.com/hls/transcoder02/28/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/330px-W9-Logo.svg.png" group-title="TNT",W9
 https://tvradiozap.eu/897
-#EXTINF:-1,TMC
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="TNT",TMC
+https://tvradiozap.eu/895
 #EXTINF:-1,TFX
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
